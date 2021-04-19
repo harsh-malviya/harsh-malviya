@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @harshjr97
+- 👀 I’m interested in data science and software development
+- 🌱 I’m currently B.Tech in Computer Science
+- 💞️ I’m looking to collaborate on beginning projects in data science, machine learning or software dev field
+- 📫 If you want to reach me just go here www.harshmalviya.ml and DM me I will get in touch with.

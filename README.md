@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Malviya</h1>
-<h3 align="center">And I'm a
-CS Student | Full Stack Python Programmer
-Machine Learning Enthusiastic</h3>
+<h3 align="center">And I'm a CS Student | Full Stack Python Programmer | Machine Learning Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag1718&label=Profile%20views&color=0e75b6&style=flat" alt="chirag1718" /> </p>
 
